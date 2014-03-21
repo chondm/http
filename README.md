@@ -11,6 +11,7 @@ SEO Note
 This Gem has the worst name in the history of SEO. But perhaps we can fix that if we
 all refer to it as "The HTTP Gem", or even better, the "Ruby HTTP Gem".
 
+
 About
 -----
 
